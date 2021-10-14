@@ -8,14 +8,14 @@ This repo is a clone of https://github.com/nelaturuk/education_pathways
 
 ## Activity 2-5
 
-Styling for home page:
+### Styling for home page:
 ![image](https://user-images.githubusercontent.com/46912725/137398826-388f8bdd-d199-4c97-b112-5861acbbe931.png)
 
 
-Styling for results page form:
+### Styling for results page form:
 ![image](https://user-images.githubusercontent.com/46912725/137399071-fee0dfb6-ae5b-4aa2-9e1e-79034c2f0e16.png)
 
-Styling for results page table:
+### Styling for results page table:
 ![image](https://user-images.githubusercontent.com/46912725/137399108-a80535d9-393b-419e-a12a-496c72361765.png)
 
 
