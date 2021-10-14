@@ -9,7 +9,7 @@
 <body>
   <a href="https://carte.utoronto.ca/" target="_blank"><img src="/static/CARTE_logo.jpg" class="img-fluid" style="max-width: 25%"></a>
   <div class="common-page-heading-container">
-    <h1>Education b Pathways</h1>
+    <h1>Education Pathways</h1>
   </div>
       
   <div id="home-page-introduction">
@@ -24,7 +24,7 @@
     <dl>
       {{ render_field(form.select) }}
       <p>
-          Restrict by one of: {{ render_field(form.divisions) }} or {{ render_field(form.departments) }} or {{ render_field(form.campuses) }}
+         <br> Restrict by one of: <br><br> {{ render_field(form.divisions) }} <br> or {{ render_field(form.departments) }} <br> or {{ render_field(form.campuses) }}
       </p> 
       <p>
       {{ render_field(form.search) }}
