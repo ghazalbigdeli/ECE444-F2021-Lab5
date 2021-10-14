@@ -9,11 +9,11 @@ This repo is a clone of https://github.com/nelaturuk/education_pathways
 ## Activity 2-5
 
 Styling for home page:
-![image](https://user-images.githubusercontent.com/46912725/137397940-dd51637d-e788-4bd3-9bf7-bedf206c4fc1.png)
+![image](https://user-images.githubusercontent.com/46912725/137398376-9abb18ce-0d17-4766-a494-ca82ec392663.png)
 
 
 Styling for results page:
-![image](https://user-images.githubusercontent.com/46912725/137397625-169169bc-8002-4072-9c6c-d239cf8df70b.png)
+![image](https://user-images.githubusercontent.com/46912725/137398438-b3da63e9-5ac9-4480-aa14-f8541bbbce72.png)
 
 
 ## Activity 6
